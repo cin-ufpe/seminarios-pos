@@ -27,7 +27,7 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 04.03.24         | Abertura da Disciplina | Leopoldo Teixeira    |                       |
 | 11.03.24         | Palestra assíncrona    |   Divulgado via classroom                    |                       |
 | 18.03.24         | Como ler artigos de forma crítica | Carina Alves |                       |
-| 25.03.24         |  _A definir_                     |   _A definir_                    |                       |
+| 25.03.24         | Mestrado e Doutorado em Computação: Um guia para iniciação e sobrevivência, sem academês |   Bruno Cartaxo                    |                       |
 | 01.04.24         | Relacionamento orientando/orientador | George Darmiton |                       |
 | 08.04.24         |  _A definir_                     |   _A definir_                    |                       |
 | 15.04.24         |  _A definir_                     |   _A definir_                    |                       |
