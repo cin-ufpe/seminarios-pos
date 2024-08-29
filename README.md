@@ -32,7 +32,7 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 21.10.24 |    Revisão sistemática e validação dos resultados da pesquisa	| Waldemar Pires Neto e [Sergio Soares](https://www.cin.ufpe.br/~scbs/) |
 | 28.10.24 |    **DIA DO SERVIDOR PÚBLICO**             |   --—                 |
 | 04.11.24 |    Preparando apresentações acadêmicas	    |   [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
-| 11.11.24 |    _A Definir_                             |   --—                 |
+| 11.11.24 |    Ética em pesquisas envolvendo seres humanos | [Kiev Gama](https://www.cin.ufpe.br/~kiev/) |
 | 18.11.24 |    Gerenciamento de cronograma e trabalho de pesquisa | [Edna Barros](http://lattes.cnpq.br/6291354144339437) |
 | 25.11.24 |    _A Definir_                             |   --—                 |
 | 02.12.24 |    _A Definir_                             |   --—                 |
