@@ -21,9 +21,9 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | Data      | Conteúdo                                                                 | Responsável                |
 |----------|------------------------------------------------------------------------|----------------------------|
 | 24.02.25 | Modificação de Matrícula                                              | —                          |
-| 03.03.25 | CARNAVAL                                                               | —                          |
+| 03.03.25 | **CARNAVAL**                                                               | —                          |
 | 10.03.25 | Aula Inaugural / Abertura da Disciplina                               | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
-| 17.03.25 | Tema a definir                                                        | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
+| 17.03.25 | Informações Gerais, dicas para sobreviver durante a pós, e FAQ        | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
 | 24.03.25 | Validade em Foco: Estratégias para Identificar e Mitigar Ameaças na sua Pesquisa | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)                      |
 | 31.03.25 | Relacionamento orientando/orientador                                  | [George Darmiton](https://darmiton.com/)     |
 | 07.04.25 | Como ler artigos de forma crítica                                    | [Carina Alves](http://lattes.cnpq.br/7752481318432762)        |
