@@ -25,16 +25,15 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 02.09.24 |    Como ler artigos de forma crítica       |   [Carina Alves](http://lattes.cnpq.br/7752481318432762)        |
 | 09.09.24 |    Mestrado e Doutorado em Computação: Um guia para iniciação e sobrevivência, sem academês    |   [Bruno Cartaxo](https://brunocartaxo.com) |
 | 16.09.24 |    Relacionamento orientando/orientador    |   [George Darmiton](https://darmiton.com/)     |
-| 23.09.24 |    _A Definir_                             |   -—                 |
-| 30.09.24 |    _A Definir_                             |   -—                 |
+| 23.09.24 |    _Atividade assíncrona_                             |   -—                 |
+| 30.09.24 |    _Atividade assíncrona_                             |   -—                 |
 | 07.10.24 |    Como escrever um artigo                 |   [Flávia Barros](http://lattes.cnpq.br/5390541720896559) e [Carla Silva](https://sites.google.com/site/carlotcha/shortbio?authuser=0) |
 | 14.10.24 |    Como definir seu problema de pesquisa   |	[Patricia Tedesco](http://lattes.cnpq.br/7465148175791735)    |
 | 21.10.24 |    Revisão sistemática e validação dos resultados da pesquisa	| Waldemar Pires Neto e [Sergio Soares](https://www.cin.ufpe.br/~scbs/) |
 | 28.10.24 |    **DIA DO SERVIDOR PÚBLICO**             |   -—                 |
-| 04.11.24 |    Preparando apresentações acadêmicas	    |   [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
+| 04.11.24 |    _Aula cancelada_	    |   --   |
 | 11.11.24 |    Ética em pesquisas envolvendo seres humanos | [Kiev Gama](https://www.cin.ufpe.br/~kiev/) |
 | 18.11.24 |    Gerenciamento de cronograma e trabalho de pesquisa | [Edna Barros](http://lattes.cnpq.br/6291354144339437) |
 | 25.11.24 |    Saúde Mental na Pós-Graduação           |   [Isabela Pina](http://lattes.cnpq.br/4130321238565542)                 |
-| 02.12.24 |    Construindo o seu segundo cérebro       |   [Marcelo Cabral](http://lattes.cnpq.br/0127646864723240)                 |
-| 09.12.24 |    _A Definir_                             |   -—                 |
-| 16.12.24 |    Fechamento Semestre                     |   [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
+| 02.12.24 |    Preparando apresentações acadêmicas	    |   [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
+| 09.12.24 |    Fechamento Semestre                     |   [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
