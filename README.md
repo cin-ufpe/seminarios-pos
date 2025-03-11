@@ -35,7 +35,7 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 19.05.25 | _A definir_                                                            |                            |
 | 26.05.25 | Ética em pesquisas envolvendo seres humanos                         | [Kiev Gama](https://www.cin.ufpe.br/~kiev/) |
 | 02.06.25 | Gerenciamento de cronograma e trabalho de pesquisa                  | [Edna Barros](http://lattes.cnpq.br/6291354144339437) |
-| 09.06.25 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | Francisco Simões           |
+| 09.06.25 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | [Francisco Simões](https://franciscosimoes.github.io/)           |
 | 16.06.25 | Preparando apresentações acadêmicas                                 | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
 | 23.06.25 | **Possivelmente Ponto Facultativo - São João (a confirmar)**            | —                          |
 | 30.06.25 | Fechamento Semestre                                                 | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
