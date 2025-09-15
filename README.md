@@ -8,7 +8,7 @@
 
 ### Horário e Local de Aulas
 
-* Segunda (13h-15h), Anfiteatro do CIn
+* Segunda (13h-15h), E132
 
 ### Objetivos
 
@@ -18,24 +18,21 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| Data      | Conteúdo                                                                  | Responsável                |
-|----------|----------------------------------------------------------------------------|----------------------------|
-| 24.02.25 | Modificação de Matrícula                                                   | —                          |
-| 03.03.25 | **CARNAVAL**                                                               | —                          |
-| 10.03.25 | Aula Inaugural / Abertura da Disciplina                                    | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
-| 17.03.25 | Informações Gerais, dicas para sobreviver durante a pós, e FAQ             | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
-| 24.03.25 | **Sem aula**                                                               | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)                      |
-| 31.03.25 | Relacionamento orientando/orientador                                       | [George Darmiton](https://darmiton.com/)     |
-| 07.04.25 | Como ler artigos de forma crítica                                          | [Carina Alves](http://lattes.cnpq.br/7752481318432762)        |
-| 14.04.25 | Como escrever um artigo                                                    | [Carla Silva](https://sites.google.com/site/carlotcha/shortbio?authuser=0) |
-| 21.04.25 | **TIRADENTES**                                                             | —                          |
-| 28.04.25 | Como definir seu problema de pesquisa                                      | [Patricia Tedesco](http://lattes.cnpq.br/7465148175791735)    |
-| 05.05.25 | Revisão sistemática e validação dos resultados da pesquisa                 | Waldemar Pires Neto e [Sergio Soares](https://www.cin.ufpe.br/~scbs/) |
-| 12.05.25 | Puzzle de trabalhos relacionados: onde a sua contribuição se encaixa e como mostrar isso? | [Fernanda Madeiral](https://fermadeiral.github.io/) |
-| 19.05.25 | Validade em Foco: Estratégias para Identificar e Mitigar Ameaças na sua Pesquisa | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)                      |
-| 26.05.25 | Ética em pesquisas envolvendo seres humanos                                | [Kiev Gama](https://www.cin.ufpe.br/~kiev/) |
-| 02.06.25 | Gerenciamento de cronograma e trabalho de pesquisa                         | [Edna Barros](http://lattes.cnpq.br/6291354144339437) |
-| 09.06.25 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | [Francisco Simões](https://franciscosimoes.github.io/)           |
-| 16.06.25 | Preparando apresentações acadêmicas                                        | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
-| 23.06.25 | **Possivelmente Ponto Facultativo - São João (a confirmar)**               | —                          |
-| 30.06.25 | Fechamento Semestre                                                        | [Leopoldo Teixeira](https://leopoldomt.github.io/)   |
+| Data      | Conteúdo                                                                          | Responsável                                               |
+|----------|------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| 08.09.25 | Modificação de Matrícula                                                           | —                                                         |
+| 15.09.25 | Aula Inaugural / Abertura da Disciplina                                            | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
+| 22.09.25 | Relacionamento orientando/orientador                                               | [George Darmiton](https://darmiton.com/)                  |
+| 29.09.25 | Estratégias de Publicação Científica                                               | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
+| 06.10.25 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | [Francisco Simões](https://franciscosimoes.github.io/)           |
+| 13.10.25 | Lendo artigos de forma crítica                                                     | [Carina Alves](http://lattes.cnpq.br/7752481318432762)    |
+| 20.10.25 | Ética em pesquisas envolvendo seres humanos                                        | [Kiev Gama](https://www.cin.ufpe.br/~kiev/) |
+| 27.10.25 | Puzzle de trabalhos relacionados: onde a sua contribuição se encaixa e como mostrar isso? | [Fernanda Madeiral](https://fermadeiral.github.io/)|
+| 03.11.25 | Como definir seu problema de pesquisa                                              | [Paulo Freitas](https://pfreitasaf.github.io/)            |
+| 10.11.25 | Escrita de artigos científicos                                                     | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
+| 17.11.25 | Validade em Foco: Estratégias para Identificar e Mitigar Ameaças na sua Pesquisa   | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)   |
+| 24.11.25 | Gerenciamento de cronograma e trabalho de pesquisa                                 | [Edna Barros](http://lattes.cnpq.br/6291354144339437)     |
+| 01.12.25 | TBD                                                                                | TBD                                                       |
+| 08.12.25 | **Nossa Senhora Imaculada da Conceição** - Feriado em Recife                       | —                                                         |
+| 15.12.25 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
+| 22.12.25 | TBD                                                                                | TBD                                                       |
