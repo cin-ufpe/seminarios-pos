@@ -26,10 +26,10 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 29.09.25 | Estratégias de Publicação Científica                                               | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
 | 06.10.25 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | [Francisco Simões](https://franciscosimoes.github.io/)           |
 | 13.10.25 | Lendo artigos de forma crítica                                                     | [Carina Alves](http://lattes.cnpq.br/7752481318432762)    |
-| 20.10.25 | Ética em pesquisas envolvendo seres humanos                                        | [Kiev Gama](https://www.cin.ufpe.br/~kiev/) |
-| 27.10.25 | Puzzle de trabalhos relacionados: onde a sua contribuição se encaixa e como mostrar isso? | [Fernanda Madeiral](https://fermadeiral.github.io/)|
+| 20.10.25 | Ética em pesquisas envolvendo seres humanos                                        | [Kiev Gama](https://www.cin.ufpe.br/~kiev/)               |
+| 27.10.25 | **Dia do Servidor Público**                                                        | —                                                         |
 | 03.11.25 | Como definir seu problema de pesquisa                                              | [Paulo Freitas](https://pfreitasaf.github.io/)            |
-| 10.11.25 | Escrita de artigos científicos                                                     | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
+| 10.11.25 | Puzzle de trabalhos relacionados: onde a sua contribuição se encaixa e como mostrar isso? | [Fernanda Madeiral](https://fermadeiral.github.io/)|
 | 17.11.25 | Validade em Foco: Estratégias para Identificar e Mitigar Ameaças na sua Pesquisa   | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)   |
 | 24.11.25 | Gerenciamento de cronograma e trabalho de pesquisa                                 | [Edna Barros](http://lattes.cnpq.br/6291354144339437)     |
 | 01.12.25 | TBD                                                                                | TBD                                                       |
