@@ -31,8 +31,9 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 03.11.25 | Como definir seu problema de pesquisa                                              | [Paulo Freitas](https://pfreitasaf.github.io/)            |
 | 10.11.25 | Puzzle de trabalhos relacionados: onde a sua contribuição se encaixa e como mostrar isso? | [Fernanda Madeiral](https://fermadeiral.github.io/)|
 | 17.11.25 | Validade em Foco: Estratégias para Identificar e Mitigar Ameaças na sua Pesquisa   | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)   |
-| 24.11.25 | Gerenciamento de cronograma e trabalho de pesquisa                                 | [Edna Barros](http://lattes.cnpq.br/6291354144339437)     |
-| 01.12.25 | TBD                                                                                | TBD                                                       |
+| 24.11.25 | **Falta de Energia - Aula Cancelada**                                              | —                                                         |
+| 01.12.25 | Cadence Design Systems: Do silício à inovação – Impulsionando o mercado de EDA     | Rafael Gontijo Hamdan, Matheus Fonseca, Gabriel Guedes    |
 | 08.12.25 | **Nossa Senhora Imaculada da Conceição** - Feriado em Recife                       | —                                                         |
-| 15.12.25 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
-| 22.12.25 | TBD                                                                                | TBD                                                       |
+| 15.12.25 | Gerenciamento de cronograma e trabalho de pesquisa                                 | [Edna Barros](http://lattes.cnpq.br/6291354144339437)     |
+| 22.12.25 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
+| 29.12.25 | Atividade de recuperação                                                           | —                                                         |
