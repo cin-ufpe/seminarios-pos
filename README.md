@@ -36,4 +36,4 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 08.12.25 | **Nossa Senhora Imaculada da Conceição** - Feriado em Recife                       | —                                                         |
 | 15.12.25 | Gerenciamento de cronograma e trabalho de pesquisa                                 | [Edna Barros](http://lattes.cnpq.br/6291354144339437)     |
 | 22.12.25 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)        |
-| 29.12.25 | Atividade de recuperação                                                           | —                                                         |
+| 29.12.25 | [Atividade de recuperação](2025-12-29-recuperacao.md)                              | —                                                         |
