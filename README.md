@@ -8,7 +8,7 @@
 
 ### Horário e Local de Aulas
 
-* Segunda (13h-15h), E132
+* Segunda (13h-15h), Anfiteatro do CIn
 
 ### Objetivos
 
