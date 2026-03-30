@@ -37,7 +37,7 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 11.05.26 | Puzzle de trabalhos relacionados: onde a sua contribuição se encaixa e como mostrar isso? | [Fernanda Madeiral](https://fermadeiral.github.io/)                    |
 | 18.05.26 | Estratégias de Publicação Científica                                               | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
 | 25.05.26 | **Tema a definir**                                                                 | —                                                                             |
-| 01.06.26 | **Tema a definir**                                                                 | —                                                                             |
+| 01.06.26 | Gerenciamento de cronograma e trabalho de pesquisa                                 | [Edna Barros](http://lattes.cnpq.br/6291354144339437)                         |
 | 08.06.26 | Ciência Aberta                                                                     | [Fernanda Madeiral](https://fermadeiral.github.io/) e Ana Paula Vasconcelos   |
 | 15.06.26 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
 | 22.06.26 | **Período de São João, segundo calendário acadêmico (a confirmar)**                | —                                                                             |
