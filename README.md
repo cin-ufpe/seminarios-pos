@@ -29,8 +29,8 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 16.03.26 | Relacionamento orientando/orientador                                               | [George Darmiton](https://darmiton.com/)                                      |
 | 23.03.26 | Lendo artigos de forma crítica                                                     | [Carina Alves](http://lattes.cnpq.br/7752481318432762)                        |
 | 30.03.26 | Escrita e Comunicação Científica                                                   | [Maíra Santana](https://portal.cin.ufpe.br/staff/?alias=mas6)                 |
-| 06.04.26 | Como definir seu problema de pesquisa                                              | [Paulo Freitas](https://pfreitasaf.github.io/)                                |
-| 13.04.26 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | [Francisco Simões](https://franciscosimoes.github.io/) |
+| 06.04.26 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | [Francisco Simões](https://franciscosimoes.github.io/) |
+| 13.04.26 | Como definir seu problema de pesquisa                                              | [Paulo Freitas](https://pfreitasaf.github.io/)                                |
 | 20.04.26 | **Possível ponto facultativo, a confirmar**                                        | —                                                                             |
 | 27.04.26 | Ética em pesquisas envolvendo seres humanos                                        | [Kiev Gama](https://www.cin.ufpe.br/~kiev/)                                   |
 | 04.05.26 | Validade em Foco: Estratégias para Identificar e Mitigar Ameaças na sua Pesquisa   | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)                       |
