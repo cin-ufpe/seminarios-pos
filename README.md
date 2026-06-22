@@ -40,5 +40,4 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 01.06.26 | Gerenciamento de cronograma e trabalho de pesquisa                                 | [Edna Barros](http://lattes.cnpq.br/6291354144339437)                         |
 | 08.06.26 | Ciência Aberta                                                                     | [Fernanda Madeiral](https://fermadeiral.github.io/) e Ana Paula Vasconcelos   |
 | 15.06.26 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
-| 22.06.26 | **Período de São João, segundo calendário acadêmico (a confirmar)**                | —                                                                             |
-| 29.06.26 | Atividade de Recuperação                                                           | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
+| 22.06.26 | [Atividade de Recuperação](2026-06-22.md)                                          | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
