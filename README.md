@@ -23,7 +23,7 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | #  | Data     | Conteúdo                          | Responsável |
 |----|----------|-----------------------------------|-------------|
 | 1  | 10.08.26 | Aula Inaugural / Abertura da Disciplina                                            | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
-| 2  | 17.08.26 | Apresentação da APG e tira-dúvidas do programa                                     | [Leopoldo Teixeira](https://leopoldomt.github.io/) e APG |
+| 2  | 17.08.26 | Apresentação da APG e NEAP                                     | APG e NEAP |
 | 3  | 24.08.26 | Relacionamento orientando/orientador                                               | [George Darmiton](https://darmiton.com/)                                      |
 | 4  | 31.08.26 | Pesquisa in-the-wild: estratégias para avançar o estado da arte com aplicações em cenários reais desafiadores | [Francisco Simões](https://franciscosimoes.github.io/) |
 |    | 07.09.26 | **INDEPENDÊNCIA DO BRASIL — FERIADO**                                              | —                                                                             |
