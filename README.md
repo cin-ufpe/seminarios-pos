@@ -35,9 +35,9 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 9  | 19.10.26 | Puzzle de trabalhos relacionados: onde a sua contribuição se encaixa e como mostrar isso? | [Fernanda Madeiral](https://fermadeiral.github.io/)                    |
 | 10 | 26.10.26 | Validade em Foco: Estratégias para Identificar e Mitigar Ameaças na sua Pesquisa   | [Paola Accioly](http://lattes.cnpq.br/6629813636801870)                       |
 |    | 02.11.26 | **FINADOS — FERIADO**                                                              | —                                                                             |
-| 11 | 09.11.26 | Estratégias de Publicação Científica                                               | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
-| 12 | 16.11.26 | Ciência Aberta | [Fernanda Madeiral](https://fermadeiral.github.io/)                    |
-| 13 | 23.11.26 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
-| 14 | 30.11.26 | **Tema a definir**                                                                 | —                                                                             |
-| 15 | 07.12.26 | **Tema a definir**                                                                 | —                                                                             |
-| 16 | 14.12.26 | **Tema a definir**                                                                 | —                                                                             |
+| 11 | 09.11.26 | 1ª Jornada de Pesquisa da Pós-Graduação (visita às sessões de pôsteres)            | Comissão de Organização 1ª JPP                            |
+| 12 | 16.11.26 | Ciência Aberta                                                                     | [Fernanda Madeiral](https://fermadeiral.github.io/)                           |
+| 13 | 23.11.26 | Estratégias de Publicação Científica                                               | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
+| 14 | 30.11.26 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
+| 15 | 07.12.26 | **(a confirmar)** IA Generativa na Pesquisa: roda de discussão                                       | Docentes convidados                                                           |
+| 16 | 14.12.26 | **(a confirmar)** (possível atividade de recuperação)                                  | —                                                                             |
