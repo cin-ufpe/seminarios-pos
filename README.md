@@ -38,6 +38,6 @@ O objetivo da disciplina é fornecer uma visão geral das atividades associadas 
 | 11 | 09.11.26 | 1ª Jornada de Pesquisa da Pós-Graduação (visita às sessões de pôsteres)            | Comissão de Organização 1ª JPP                            |
 | 12 | 16.11.26 | Ciência Aberta                                                                     | [Fernanda Madeiral](https://fermadeiral.github.io/)                           |
 | 13 | 23.11.26 | Estratégias de Publicação Científica                                               | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
-| 14 | 30.11.26 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
-| 15 | 07.12.26 | **(a confirmar)** IA Generativa na Pesquisa: roda de discussão                                       | Docentes convidados                                                           |
-| 16 | 14.12.26 | **(a confirmar)** (possível atividade de recuperação)                                  | —                                                                             |
+| 14 | 30.11.26 | **Título a definir**                                                               | [Tom Hanika](https://tomhanika.de)                            |
+| 15 | 07.12.26 | Preparando apresentações acadêmicas                                                | [Leopoldo Teixeira](https://leopoldomt.github.io/)                            |
+| 16 | 14.12.26 | **(a confirmar)** (possível atividade de recuperação)                              | —                                                                             |
